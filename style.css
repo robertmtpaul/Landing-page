@@ -74,7 +74,7 @@ a:hover {
 }
 
 footer{
-  padding: 30px;
+  padding: 10px;
   background: rgb(30, 30, 30);
   color: lightgrey;
   font-size: 10px;
@@ -82,6 +82,10 @@ footer{
 .card {
   padding: 50px;
   font-weight: lighter;
+}
+
+footer li {
+  display: inline-block;
 }
 
 footer a {
