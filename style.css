@@ -32,7 +32,7 @@ a:hover {
   color: green;
 }
 
-/* Custom design */
+/* BANNER STYLES */
 
 #banner{
   text-align: center;
@@ -67,6 +67,13 @@ a:hover {
   color: white;
 }
 
+/* CUSTOM STYLES */
+
+
+.navbar-brand {
+  size: 20px;  
+}
+
 footer{
   padding: 30px;
   background: rgb(30, 30, 30);
@@ -87,7 +94,7 @@ footer a:hover {
   color: white;
 }
 
-/*Media queries*/
+/* MEDIA QUERIES */
 
 
 
